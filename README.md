@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ysmlrt.
-- 👀 I’m interested in Html, Css, JavaScript and Golang.
-- 🌱 I’m currently learning the basic about programming logic.
+- 👀 I’m interested in HTML, CSS, JavaScript, Golang and PHP.
+- 🌱 I’m currently learning the basic about Node.js.
 - 💞️ I’m looking to collaborate on Projects to improve my skills in software developping.
-- 📫 How to reach me checking my profile in Linkedin: https://www.linkedin.com/in/yasmin-gali%C3%A3o-20656a1b6/.
+- 📫 How to reach me checking my profile in Linkedin: https://www.linkedin.com/in/yasmin-galiao.
 
 <!---
 ysmlrt/ysmlrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
